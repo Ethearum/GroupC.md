@@ -2,6 +2,9 @@ Group C
 
 WAF = Web Application Firewall
 
+![image](https://github.com/user-attachments/assets/65eb2662-1fc5-448d-8ad6-30cd72162876)
+
+
 Schützt vor Webbasierten Agriffen indem er auf bestimmten festgelegten Regeln HTTP/S Anfragen überprüft und bei fehlverhalten blockiert. 
 Firmen: AWS, MS Azure etc.. 
 
