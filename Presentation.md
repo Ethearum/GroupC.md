@@ -13,3 +13,29 @@ Vorteile:
 ->Compliance-Erfüllung (Gewisse REgelen erfüllt für web)
 etc... 
 
+
+
+
+"give an overwiew of "legacy application and technologies" form 2024's perspective"
+
+Legacy-Anwendungen und -Technologien bezieht sich auf ältere Software- und Technologiesysteme, die weiterhin im Einsatz sind.
+
+End of life - Entwickler stellt den Support ein oder das Produkt ist nicht mehr erhältich 
+
+Inability to scale - Diese Systemen können nicht mehr mit dem Datenmengen heutiger Anwendungsfälle mithalten
+
+Heavily patched software - 
+
+No one knows how to maintain it - 
+
+Legacy Applications / Technologies:
+
+- Großerechner (mainframe computers), auf denen alte Anwendungen laufen
+
+- Programmiersprachen, z.B. COBOL (wird für kaufmännische Applikationen verwendet)
+
+- Betriebssysteme, z.B. MS-DOS, Windows 3.1 oder XP
+
+- Hardware, z.B. der Apple IIGS oder Intel 286 Computer
+
+- Browser, z.B. Internet Explorer
