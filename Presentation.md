@@ -24,7 +24,7 @@ End of life - Entwickler stellt den Support ein oder das Produkt ist nicht mehr 
 
 Inability to scale - Diese Systemen können nicht mehr mit dem Datenmengen heutiger Anwendungsfälle mithalten
 
-Heavily patched software - viele legacy Produkte wurden in der Vergangenheit Umfangreich gepatched
+Heavily patched software - viele legacy Produkte wurden in der Vergangenheit Umfangreich gepatched. Umfangreiches Patchen, sowie fehlerhaftes Patchen kann die Software anfälliger für Sicherheitsverletzungen als bei moderne Anwendungen
 
 No one knows how to maintain it - ältere Produkte benötigen älteres Wissen, dadurch wird es schwierig geeigntes Personal zu finden
 
