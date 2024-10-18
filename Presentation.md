@@ -21,6 +21,9 @@ etc...
 
 "give an overwiew of "legacy application and technologies" form 2024's perspective"
 
+![image](https://github.com/user-attachments/assets/90d40f7d-a49a-4fc3-a148-2c42be9c4fb1)
+
+
 Legacy-Anwendungen und -Technologien bezieht sich auf ältere Software- und Technologiesysteme, die weiterhin im Einsatz sind.
 
 End of life - Entwickler stellt den Support ein oder das Produkt ist nicht mehr erhältich 
