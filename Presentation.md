@@ -39,3 +39,5 @@ Legacy Applications / Technologies:
 - Hardware, z.B. der Apple IIGS oder Intel 286 Computer
 
 - Browser, z.B. Internet Explorer
+
+- SOAP (siehe Gruppe A)
